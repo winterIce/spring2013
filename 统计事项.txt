@@ -1,0 +1,17 @@
+nStatistics2013({trigger:"click"})       点击logo的方式触发游戏
+nStatistics2013({trigger:"mouseover"})   鼠标over到logo上面1s触发游戏
+nStatistics2013({action:"countdown"})    触发倒计时（点击和按键盘任意键）
+nStatistics2013({action:"close"})        关闭游戏区域
+nStatistics2013({action:"tipframe"})     弹出碰到边框就失败的提示框(限于第一关)
+nStatistics2013({action:"tiporder"})     弹出吃错顺序的提示框（限于第一关）
+
+nStatistics2013({action:"overframe"})    碰壁gameover
+nStatistics2013({action:"overbody"})     碰到蛇身gameover
+nStatistics2013({action:"overorder"})    吃错顺序gameover
+
+nStatistics2013({level:curLevel,subLevel:curSubLevel})    进入第几大关第几小关的时候统计
+
+nStatistics2013({action:"hongbao"})     点击红包页面
+nStatistics2013({action:"weibo"})       点击微博分享
+nStatistics2013({action:"repeat"})      点击重新再玩
+nStatistics2013({action:"shareclose"})  点击分享的关闭按钮

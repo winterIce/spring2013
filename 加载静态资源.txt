@@ -1,0 +1,36 @@
+分三个阶段：
+一。页面加载阶段：
+    logo.gif  13.4KB
+    logoa.jpg  64.0KB
+      
+共77.4kB
+
+二。游戏区域下拉时：
+    stagebg.jpg  69.3KB
+    tip.jpg  53.5KB
+    snake1.png  2.24KB
+    snake2.png  1.61KB
+    snake3.png  1.40KB
+    snake4.png  1.69KB
+    snake5.png  1.29KB
+    bless_text.jpg  59.6KB
+    spring.mp3  81.20KB
+共271.83kB
+
+三。游戏开始：
+    第一关开始时
+        sharebg.jpg  36.7KB
+        card1.jpg  12.6KB
+    共49.3KB
+    第二关开始时
+        card2.jpg  15.1KB
+    第三关开始时
+        card3.jpg  24.8KB
+    第四关开始时
+        card4.jpg  36.7KB
+    第五关开始时
+        card5.jpg  36.5KB
+
+共511.63KB
+
+//Fyuicompressor  --charset utf-8 spring2013.js -o spring2013min.js
